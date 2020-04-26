@@ -6,6 +6,14 @@ html {
   -ms-text-size-adjust: 100%;
 }
 
+a {
+  color: #424B54;
+}
+
+a:hover {
+  background-color:#E6CCFF;
+}
+
 a:focus {
   outline: thin dotted;
 }
@@ -22,6 +30,7 @@ b, strong {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
+  text-decoration:none;
 }
 
 body {
